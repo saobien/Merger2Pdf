@@ -1,0 +1,18 @@
+C:\Users\Win7\Desktop\thu nghiem\merger dpf pro\merger dpf pro\bin\Debug\merger dpf pro.exe.config
+C:\Users\Win7\Desktop\thu nghiem\merger dpf pro\merger dpf pro\bin\Debug\merger dpf pro.exe
+C:\Users\Win7\Desktop\thu nghiem\merger dpf pro\merger dpf pro\bin\Debug\merger dpf pro.pdb
+C:\Users\Win7\Desktop\thu nghiem\merger dpf pro\merger dpf pro\bin\Debug\merger dpf pro.xml
+C:\Users\Win7\Desktop\thu nghiem\merger dpf pro\merger dpf pro\obj\Debug\merger_dpf_pro.Form1.resources
+C:\Users\Win7\Desktop\thu nghiem\merger dpf pro\merger dpf pro\obj\Debug\merger_dpf_pro.Resources.resources
+C:\Users\Win7\Desktop\thu nghiem\merger dpf pro\merger dpf pro\obj\Debug\merger dpf pro.vbproj.GenerateResource.Cache
+C:\Users\Win7\Desktop\thu nghiem\merger dpf pro\merger dpf pro\obj\Debug\merger dpf pro.exe
+C:\Users\Win7\Desktop\thu nghiem\merger dpf pro\merger dpf pro\obj\Debug\merger dpf pro.xml
+C:\Users\Win7\Desktop\thu nghiem\merger dpf pro\merger dpf pro\obj\Debug\merger dpf pro.pdb
+C:\Users\Win7\Desktop\thu nghiem\merger dpf pro\merger dpf pro\obj\Debug\merger dpf pro.exe.licenses
+C:\Users\Win7\Desktop\thu nghiem\merger dpf pro\merger dpf pro\obj\Debug\merger dpf pro.vbprojResolveAssemblyReference.cache
+C:\Users\Win7\Desktop\thu nghiem\merger dpf pro\merger dpf pro\bin\Debug\PdfSharp.dll
+C:\Users\Win7\Desktop\thu nghiem\merger dpf pro\merger dpf pro\bin\Debug\PdfSharp.xml
+C:\Users\Win7\Desktop\thu nghiem\merger dpf pro\merger dpf pro\bin\Debug\merger dpf pro.exe.manifest
+C:\Users\Win7\Desktop\thu nghiem\merger dpf pro\merger dpf pro\bin\Debug\merger dpf pro.application
+C:\Users\Win7\Desktop\thu nghiem\merger dpf pro\merger dpf pro\obj\Debug\merger dpf pro.exe.manifest
+C:\Users\Win7\Desktop\thu nghiem\merger dpf pro\merger dpf pro\obj\Debug\merger dpf pro.application
