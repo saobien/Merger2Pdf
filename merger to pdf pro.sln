@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "merger to pdf pro", "merger dpf pro\merger to pdf pro.vbproj", "{B108892A-5338-464E-A94B-5DD8974FFBFA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{C2F14655-3CC9-43B6-AD3A-C752281F820D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B108892A-5338-464E-A94B-5DD8974FFBFA}.CD_ROM|Any CPU.ActiveCfg = Debug|Any CPU
+		{B108892A-5338-464E-A94B-5DD8974FFBFA}.CD_ROM|Any CPU.Build.0 = Debug|Any CPU
+		{B108892A-5338-464E-A94B-5DD8974FFBFA}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{B108892A-5338-464E-A94B-5DD8974FFBFA}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{B108892A-5338-464E-A94B-5DD8974FFBFA}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{B108892A-5338-464E-A94B-5DD8974FFBFA}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{B108892A-5338-464E-A94B-5DD8974FFBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B108892A-5338-464E-A94B-5DD8974FFBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B108892A-5338-464E-A94B-5DD8974FFBFA}.SingleImage|Any CPU.ActiveCfg = Debug|Any CPU
+		{B108892A-5338-464E-A94B-5DD8974FFBFA}.SingleImage|Any CPU.Build.0 = Debug|Any CPU
+		{C2F14655-3CC9-43B6-AD3A-C752281F820D}.CD_ROM|Any CPU.ActiveCfg = Release
+		{C2F14655-3CC9-43B6-AD3A-C752281F820D}.Debug|Any CPU.ActiveCfg = Debug
+		{C2F14655-3CC9-43B6-AD3A-C752281F820D}.DVD-5|Any CPU.ActiveCfg = Debug
+		{C2F14655-3CC9-43B6-AD3A-C752281F820D}.Release|Any CPU.ActiveCfg = Release
+		{C2F14655-3CC9-43B6-AD3A-C752281F820D}.SingleImage|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
